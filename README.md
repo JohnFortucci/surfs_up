@@ -33,8 +33,8 @@ While the above comparison focused on the termerature data collected for the two
 
 1) Summary statistics for the months of June and December precipitation 
 
-![Image of June and December Summary](/resources/June_December_summary.PNG)
+![Image of June and December Precipitation_Summary](/resources/June_December_Precipitation_summary.png)
 
 2) Yearly averages of both Percipitation and Temperature
 
-![Image of June and December Summary](/resources/June_December_summary.PNG)
+![By_Year_Percipitation_Temperature](/resources/By_Year_Percipitation_Temperature.png)
