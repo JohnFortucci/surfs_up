@@ -11,3 +11,5 @@ Prepare a report analysing each of the months data and comparing the two sets of
 ## Results comparison 
 
 The tables below show the summary statistics from both June and December data.
+
+![Image of June and December Summary](/resources/June_December_summary.png)
