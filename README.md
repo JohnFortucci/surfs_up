@@ -24,3 +24,11 @@ From the above tables we can identify the following differences :-
 
 + Maximun temperature comparison
   + The difference between the maximun temperatures is 2 Degrees , this is not significant , and indicates that the maximum temperature is consistent across the two months.
+
+## Summary
+
+Based on the above tables the data shows that there is no significant changes in the overall average temperatures across the two months used in the comparison , and this would indicate that the two months have comparible weather conditions.
+
+While the above comparison focused on all the data collected for the two months the following two queries have been developed could be used to provide additional insight into the weather patterns.
+
+1) 
