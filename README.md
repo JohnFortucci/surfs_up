@@ -29,7 +29,9 @@ From the above tables we can identify the following differences :-
 
 Based on the above tables the data shows that there is no significant changes in the overall average temperatures across the two months used in the comparison , and this would indicate that the two months have comparible weather conditions.
 
-While the above comparison focused on the termerature data collected for the two months the following two queries have been developed could be used to provide additional insight into the weather patterns.
+While the above comparison focused on the termerature data collected for the two months the following two queries have been developed could be used to provide additional insight into the weather patterns. 
+
+The query outputs are displayed in the images below.
 
 1) Summary statistics for the months of June and December precipitation 
 
@@ -38,3 +40,5 @@ While the above comparison focused on the termerature data collected for the two
 2) Yearly averages of both Percipitation and Temperature
 
 ![By_Year_Percipitation_Temperature](/resources/By_Year_Percipitation_Temperature.png)
+
+Note : The actual queries are in the SurfsUp_Challenge.ipynb file.
